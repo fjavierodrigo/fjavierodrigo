@@ -4,7 +4,7 @@ Junior Software Developer | Backend Java (Spring Boot) & Full-Stack
 
 ## 👨‍💻 About Me
 
-Desarrollador de Aplicaciones Multiplataforma (DAM) formado en el IES Virgen de la Paloma, con un enfoque práctico en la resolución de problemas complejos mediante código limpio y eficiente.
+Desarrollador de Aplicaciones Multiplataforma (DAM) graduado en el IES Virgen de la Paloma con una nota media de 9,3 y 4 matrículas de honor. Apasionado por la resolución de problemas complejos mediante código limpio, mantenible y eficiente.
 
 ## 🛠 Especialidades Técnicas
 
