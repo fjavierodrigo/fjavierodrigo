@@ -1,14 +1,5 @@
 # Javier Rodrigo Espinosa
 
-![Java](https://img.shields.io/badge/Java-17-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.14-6DB33F?logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-21.2-DD0031?logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazonaws&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-blue?logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker&logoColor=white)
-
----
 Junior Software Developer | Backend Java (Spring Boot) & Full-Stack
 
 ## 👨‍💻 About Me
