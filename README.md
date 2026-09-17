@@ -1,4 +1,4 @@
-# Javier Rodrigo Espinosa
+## Javier Rodrigo Espinosa
 
 Junior Software Developer | Backend Java (Spring Boot) & Full-Stack
 
