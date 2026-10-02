@@ -16,4 +16,4 @@ Desarrollador de Aplicaciones Multiplataforma (DAM) graduado en el IES Virgen de
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/francisco-javier-rodrigo-espinosa
+LinkedIn: https://www.linkedin.com/in/fjavierodrigo
